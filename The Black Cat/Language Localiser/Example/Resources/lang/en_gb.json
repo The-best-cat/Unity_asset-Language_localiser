@@ -1,0 +1,5 @@
+{
+    "THIS_IS_ID_1": "This is the first translated string.",
+    "THIS_IS_ID_2": "This is the second translated string.",
+    "SUBS_ID_1": "You have pressed 'E' for {0} times and 'Z' for {1} times." 
+}

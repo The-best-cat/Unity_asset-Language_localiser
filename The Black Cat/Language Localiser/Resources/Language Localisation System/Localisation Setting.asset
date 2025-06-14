@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ee180118511dfe94c9e638db1d989a61, type: 3}
+  m_Name: Localisation Setting
+  m_EditorClassIdentifier: 
+  language2font:
+  - languageId: en_gb
+    font: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
+  - languageId: en_us
+    font: {fileID: 11400000, guid: 882aaa57014d1c04b9000ed872b0958e, type: 2}
+  - languageId: ja_jp
+    font: {fileID: 11400000, guid: c3e62fd87a464d0488fda2709f0f2ee4, type: 2}
+  - languageId: zh_hk
+    font: {fileID: 11400000, guid: 399365cffab327642a1c962e7cdb93cf, type: 2}
+  loadDefaultOnSceneLoad: 1
+  defaultLanguageId: en_gb
